@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-27 17:05+0530\n"
+"PO-Revision-Date: 2022-09-27 10:09+0000\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: translate_app/form.py:5
+msgid "first name"
+msgstr ""
+
+#: translate_app/models.py:5
+msgid "title"
+msgstr ""
+
+#: translate_app/models.py:6
+msgid "description"
+msgstr ""
+
+#: translate_app/models.py:7
+msgid "date"
+msgstr ""
+
+#: translate_app/models.py:8
+msgid "price"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:10
+msgid "Album example · Bootstrap"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:40
+#: translate_app/templates/translate_app/newPage.html:40
+msgid "About"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:41
+msgid ""
+"Add some information about the album below, the author, or any other "
+"background context. Make it a few sentences long so folks can pick up some "
+"informative tidbits. Then, link them off to some social networking sites or "
+"contact information."
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:44
+#: translate_app/templates/translate_app/newPage.html:44
+msgid "Contact"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:46
+#: translate_app/templates/translate_app/newPage.html:46
+msgid "Follow on Twitter"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:47
+#: translate_app/templates/translate_app/newPage.html:47
+msgid "Like on Facebook"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:48
+#: translate_app/templates/translate_app/newPage.html:48
+msgid "Email me"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:58
+#: translate_app/templates/translate_app/newPage.html:58
+msgid "Album"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:88
+#: translate_app/templates/translate_app/newPage.html:88
+msgid "Album example"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:89
+#: translate_app/templates/translate_app/newPage.html:89
+msgid ""
+"Something short and leading about the collection below—its contents, the "
+"creator, etc. Make it short and sweet, but not too short so folks don’t "
+"simply skip over it entirely."
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:91
+#: translate_app/templates/translate_app/newPage.html:91
+msgid "Main call to action"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:92
+#: translate_app/templates/translate_app/newPage.html:92
+msgid "Secondary action"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:100
+#: translate_app/templates/translate_app/newPage.html:100
+msgid "Placeholder"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:101
+#: translate_app/templates/translate_app/newPage.html:101
+msgid "Thumbnail"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:102
+#: translate_app/templates/translate_app/newPage.html:102
+msgid ""
+"This is a wider card with supporting text below as a natural lead-in to "
+"additional content. This content is a little bit longer."
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:103
+#: translate_app/templates/translate_app/newPage.html:103
+msgid "View"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:104
+#: translate_app/templates/translate_app/newPage.html:104
+msgid "Edit"
+msgstr ""
+
+#: translate_app/templates/translate_app/home.html:105
+#: translate_app/templates/translate_app/newPage.html:105
+msgid "9 mins"
+msgstr ""
+
+#: translate_app/templates/translate_app/newPage.html:41
+msgid ""
+"Add some information album up, the detector, or any other background "
+"context. Make it a few sentences near so folks can pick up some informative "
+"tidbits. Then, link them off to some social networking sites or contact "
+"information."
+msgstr ""
+
+#: translate_app/views.py:16
+msgid "translate_app/home.html"
+msgstr ""
+
+#: translate_app/views.py:27
+msgid "translate_app/newPage.html"
+msgstr ""
+
+#: translate_project/settings.py:36
+msgid "English"
+msgstr ""
+
+#: translate_project/settings.py:37
+msgid "Polish"
+msgstr ""
+
+#: translate_project/urls.py:10
+msgid "admin/"
+msgstr ""
+
+#: translate_project/urls.py:13
+msgid "newPage/"
+msgstr ""
